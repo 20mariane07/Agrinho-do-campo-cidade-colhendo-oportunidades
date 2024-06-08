@@ -29,7 +29,7 @@ body {
 }
 
 .escola{
-    background-image: url(".png");
+    background-image: url("planta.jpg");
     color:white;
     display: flex;
     justify-content: center;
