@@ -46,7 +46,7 @@ body {
     padding: 24px 0;
 }
 
-.estudante{
+.fruta{
     padding: 24px 0;
 }
 .fruta-imagem{
@@ -63,7 +63,7 @@ body {
     padding: 50px 0;
 }
 
-.estudante-todos{
+.fruta-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
