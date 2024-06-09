@@ -232,7 +232,7 @@
             <main>
 <fieldset >
     <legend>Formulário</legend>
-    <form>
+    <form action="https://api.staticforms.xyz/submit" method="post">
         <label for="nomesobrenome">Nome e sobrenome</label>
         <input type="text" id="nomesobrenome" class="input-padrao" required>
 
@@ -381,6 +381,9 @@
         <input type="checkbox" checked> Gostaria de receber nossas novidades por email? </label>
 
         <input type="submit" value="Enviar formulário" class="enviar">
+
+        <input type="hidden" name="accessKey" value="577fae63-524c-4148-b6bd-2c603cbbf602">
+        <input type="hidden" name="redirectTo" value="">
     </form>
     <table>
     <thead>
