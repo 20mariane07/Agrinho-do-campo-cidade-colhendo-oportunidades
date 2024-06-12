@@ -68,7 +68,49 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.verdura{
+    padding: 24px 0;
+}
+.imagem-verdura{
+    width: 120px;
+}
 
+.div-verdura{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.titulo-verdura{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.todos-verdura{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.legume{
+    padding: 24px 0;
+}
+.legume-imagem{
+    width: 120px;
+}
+
+.legume-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.legume-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.legume-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
 
 /*Formulário*/
 
