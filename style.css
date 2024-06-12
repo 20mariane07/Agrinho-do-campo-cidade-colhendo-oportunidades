@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -209,7 +209,7 @@ td, th {
 }
 
 .rodape{
-    background-color: black;
+    background-color: white;
     text-align: center;
 }
 
