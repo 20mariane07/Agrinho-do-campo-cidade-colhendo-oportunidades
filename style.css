@@ -64,7 +64,7 @@ body {
 
 .fruta-todos{
     display: grid;
-    grid-template-columns: repeat(1, 20% 20% 20% 20% 20%);
+    grid-template-columns: repeat 20% 20% 20% 20% 20%;
 }
 
 .verdura{
@@ -86,7 +86,7 @@ body {
 
 .todos-verdura{
     display: grid;
-    grid-template-columns: repeat(1, 20% 20% 20% 20% 20%);
+    grid-template-columns: repeat 20% 20% 20% 20% 20%;
 }
 
 .legume{
