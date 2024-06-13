@@ -27,7 +27,7 @@ body {
 .empresa{
     background-image: url("planta.jpg");
     color:white;
-    display: flex;
+    display: table;
     justify-content: center;
     align-items: center;
     padding: 100px 0;
