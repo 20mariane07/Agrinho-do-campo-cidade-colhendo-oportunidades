@@ -45,7 +45,6 @@ body {
 }
 
 /*Categorias*/
-<ul>
 .fruta{
     padding: 24px 0;
 }
@@ -67,7 +66,7 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-</ul>
+
 .verdura{
     padding: 24px 0;
 }
