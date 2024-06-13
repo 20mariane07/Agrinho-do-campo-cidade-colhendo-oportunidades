@@ -59,7 +59,6 @@ body {
 }
 
 .fruta-todos{
-    display: inline-block;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
