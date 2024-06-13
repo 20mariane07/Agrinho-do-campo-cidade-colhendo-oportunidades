@@ -27,10 +27,10 @@ body {
 .empresa{
     background-image: url("planta.jpg");
     color:white;
-    display: table;
+    display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px 0;
+    padding: 1000px 0;
 }
 
 .empresa-div-conteudo{
