@@ -24,8 +24,6 @@ body {
     font-size: 16px;
 }
 
-/*Sobre a empresa*/
-
 .empresa{
     background-image: url("planta.jpg");
     color:white;
@@ -39,12 +37,10 @@ body {
     width: 35%;
 }
 
-
 .empresa-titulo{
     padding: 24px 0;
 }
 
-/*Categorias*/
 .fruta{
     padding: 24px 0;
 }
@@ -110,8 +106,6 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
-
-/*Formulário*/
 
 main {
     width: 940px;
