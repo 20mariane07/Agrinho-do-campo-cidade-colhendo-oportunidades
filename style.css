@@ -45,8 +45,14 @@ body {
     padding: 24px 0;
 }
 .fruta-imagem{
-    width: 120px;
+  display:block;
+  float:left;
+  margin:10px;
 }
+.fruta-imagem:nth-child(4n+1) {
+  clear:both;
+}
+
 
 .fruta-div{
     text-align: center;
