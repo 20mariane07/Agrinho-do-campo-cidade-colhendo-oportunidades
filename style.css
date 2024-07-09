@@ -73,7 +73,12 @@ body {
     padding: 24px 0;
 }
 .imagem-verdura{
-    width: 120px;
+  display:block;
+  float:left;
+  margin:10px;
+}
+.imagem-verdura:nth-child(4n+1) {
+  clear:both;
 }
 
 .div-verdura{
@@ -95,7 +100,12 @@ body {
     padding: 24px 0;
 }
 .legume-imagem{
-    width: 120px;
+  display:block;
+  float:left;
+  margin:10px;
+}
+.legume-imagem:nth-child(4n+1) {
+  clear:both;
 }
 
 .legume-div{
