@@ -40,14 +40,6 @@ body {
 .empresa-titulo{
     padding: 24px 0;
 }
-body1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  font-family: "Arial";
-  gap:16px;
-}
 .card {
   background-color: #fff;
   width: 180px;
