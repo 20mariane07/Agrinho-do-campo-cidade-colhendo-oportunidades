@@ -47,7 +47,7 @@ body {
   height: 100vh;
   font-family: "Arial";
   gap:16px;
-  background-image: url("planta.jpg")
+  background-image: url("fundo-brilhante.jpg")
 }
 .card{
   background-color: #fff;
