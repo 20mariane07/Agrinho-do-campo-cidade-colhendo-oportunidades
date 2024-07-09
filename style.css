@@ -47,7 +47,7 @@ body {
   height: 100vh;
   font-family: "Arial";
   gap:16px;
-  background-color: gold
+  background-color: gold;
 }
 .card{
   background-color: #fff;
