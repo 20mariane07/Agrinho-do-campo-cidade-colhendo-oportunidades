@@ -47,10 +47,6 @@ body {
 .fruta-imagem{
   width:120px;
 }
-.fruta-imagem:nth-child(4n+1) {
-  clear:both;
-}
-
 
 .fruta-div{
     text-align: center;
@@ -64,7 +60,7 @@ body {
 
 .fruta-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: repeat(4,6fr);
 }
 
 .verdura{
@@ -72,9 +68,6 @@ body {
 }
 .imagem-verdura{
   width:120px
-}
-.imagem-verdura:nth-child(4n+1) {
-  clear:both;
 }
 
 .div-verdura{
@@ -97,9 +90,6 @@ body {
 }
 .legume-imagem{
   width:120px
-}
-.legume-imagem:nth-child(4n+1) {
-  clear:both;
 }
 
 .legume-div{
